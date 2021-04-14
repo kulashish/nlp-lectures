@@ -3,20 +3,26 @@ Course: DSECLZG525 at BITS Pilani - WILP
 
 # Topics Covered
 1. Introduction to Natural Language Understanding
-   - The Study of Language.
-   - Applications of Natural Language Understanding. 1.3 Evaluating Language Understanding Systems.
-   - The Different Levels of Language Analysis.
-   - Representations and Understanding.
-   - The Organization of Natural Language Understanding Systems.
+   - The Study of Language
+   - Applications of Natural Language Understanding
+   - Evaluating Language Understanding Systems
+   - The Different Levels of Language Analysis
+   - Representations and Understanding
+   - The Organization of Natural Language Understanding Systems
 2. N-gram Language Models
-3. Part-of-Speech Tagging
-4. Hidden Markov Models
-5. Grammars and Parsing
-6. Statistical Constituency Parsing
-7. Dependency Parsing
-8. Word sense and word net
-9. Statistical Machine translation
-10. Semantic web ontology
-11. Question Answering
-12. Dialogue Systems and Chatbots
-13. Sentiment analysis
+   - Language Models
+   - N-grams
+   - Evaluating Language Models
+   - Generalization and Zeros
+   - Smoothing, Backoff and Interpolation
+4. Part-of-Speech Tagging
+5. Hidden Markov Models
+6. Grammars and Parsing
+7. Statistical Constituency Parsing
+8. Dependency Parsing
+9. Word sense and word net
+10. Statistical Machine translation
+11. Semantic web ontology
+12. Question Answering
+13. Dialogue Systems and Chatbots
+14. Sentiment analysis
